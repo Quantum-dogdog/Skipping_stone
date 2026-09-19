@@ -1,4 +1,4 @@
-在release里
+直接下载可用的rar包在release里
 
 结果是：
 
